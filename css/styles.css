@@ -6063,7 +6063,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: #ff99a5 !important;
+  background-color: #66fcf1 !important;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
@@ -10213,4 +10213,10 @@ form .row:first-child .floating-label-form-group {
 .fa-envelope {
   padding-right: 5px;
   padding-top: 5px;
+}
+.masthead-subheading {
+  color: gray;
+}
+.masthead-heading {
+  color: black;
 }
